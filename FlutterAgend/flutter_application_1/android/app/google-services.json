@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1050452631935",
+    "project_id": "agendflutter",
+    "storage_bucket": "agendflutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1050452631935:android:054d75bac44f40f2bdba4a",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCijL9aK_K38m3dGEwu1u0RWk3C0v7C00M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
